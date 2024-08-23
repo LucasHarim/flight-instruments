@@ -7,7 +7,7 @@
 1. Download the repository 
 
 2.
-    Inside flight-instrument folder:
+    Inside flight-instruments folder:
 
     ```
     pip install .
